@@ -212,7 +212,7 @@
         'zh-TW': '國立中山大學學生議會',
         en: 'Student Council, National Sun Yat-sen University Student Association',
       },
-      duration: 'June 2024 - Current',
+      duration: 'June 2024 - June 2025',
     },
     {
       title: {
@@ -223,7 +223,7 @@
         'zh-TW': '國立中山大學學生議會',
         en: 'Student Council, National Sun Yat-sen University Student Association',
       },
-      duration: 'June 2023 - Current',
+      duration: 'June 2023 - June 2025',
     },
     {
       title: {
